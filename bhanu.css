@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    background-color: #FF7F50;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    position:fixed;
+    top:0;
+    width:70%;
+    position:relative;
+    margin-left:30%;
+
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:14px 16px;
+    text-decoration:none;
+}
+img{
+    border-radius: 50%;
+
